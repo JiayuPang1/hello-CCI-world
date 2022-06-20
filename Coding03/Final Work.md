@@ -4,6 +4,7 @@
 #### A link to a GitHub code repository：
 https://github.com/JiayuPang1/hello-CCI-world/blob/main/Coding03final.ipynb
 #### A link to the md file：
+https://github.com/JiayuPang1/hello-CCI-world/blob/main/Coding03/Final%20Work.md
 #### It is highly recommended that professors click this link to view the assignment. Because the gif video I inserted in this pdf cannot be played)
 ## 1. Background:
 #### Generative Adversarial Networks (GANs) are a recent innovation in machine learning, first proposed in 2014 by Ian J. Goodfellow and colleagues. 
