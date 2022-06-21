@@ -38,6 +38,7 @@ Insert picture 1111
 #### (3) Production process
 Picture + Video 11111
 #### Creating with blueprints in Unreal adds a lot of interactive effects, which improves the flexibility of the picture and enhances the immersive experience of the audience.
+#### This process took the most time, because it was the first time I was exposed to unreal, all the dynamic effects, such as multiple characters moving randomly, glowing and freely flashing fireflies, objects that could be touched, teleportation and respawn, etc.
 
 #### In the final show, we made some simple physical scene settings, and the cubes of various rules echoed the scenes in the game to enhance the audience's experience.
 
