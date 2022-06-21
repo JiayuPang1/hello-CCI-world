@@ -1,5 +1,7 @@
 ## **· Final Project ·**
 ---------------------------
+#### Link：the Readme file of github.
+#### （It is recommended that people click on this link to the source file to view the video inserted in it.）
 
 # **·Samsara·**
 ---------------------------
