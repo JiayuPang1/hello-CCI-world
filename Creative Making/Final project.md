@@ -33,7 +33,9 @@
 #### (2) Experimental process:
 #### The way we initially thought about the presentation of the work was based on motion capture and machine-generated dynamic images on a large screen. Corresponding code research was also done.
 <img width="1168" alt="截屏2022-06-21 下午2 36 21" src="https://user-images.githubusercontent.com/92034503/174814001-45f875b5-5cba-4947-82e3-3098a8d2d084.png">
+
 #### Link to the original source of the code：
+
 https://blog.csdn.net/m0_55998339/article/details/124066480?spm=1001.2101.3001.6650.8&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-8-124066480-blog-105607012.pc_relevant_paycolumn_v3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-8-124066480-blog-105607012.pc_relevant_paycolumn_v3&utm_relevant_index=12
 
 https://user-images.githubusercontent.com/92034503/174837021-526dda75-edb0-4ae7-9305-be9cba847cfe.MP4
