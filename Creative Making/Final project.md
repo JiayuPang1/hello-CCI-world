@@ -32,7 +32,13 @@
 
 #### (2) Experimental process:
 #### The way we initially thought about the presentation of the work was based on motion capture and machine-generated dynamic images on a large screen. Corresponding code research was also done.
-Insert picture 1111
+<img width="1168" alt="截屏2022-06-21 下午2 36 21" src="https://user-images.githubusercontent.com/92034503/174814001-45f875b5-5cba-4947-82e3-3098a8d2d084.png">
+#### Link to the original source of the code：
+https://blog.csdn.net/m0_55998339/article/details/124066480?spm=1001.2101.3001.6650.8&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-8-124066480-blog-105607012.pc_relevant_paycolumn_v3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-8-124066480-blog-105607012.pc_relevant_paycolumn_v3&utm_relevant_index=12
+
+https://user-images.githubusercontent.com/92034503/174837021-526dda75-edb0-4ae7-9305-be9cba847cfe.MP4
+#### But in the process of experimenting, I found that although adding the camera to capture the head movement will enhance the feeling of interaction, it also brings a bad game experience to a certain extent. Because the game I designed has a certain degree of difficulty in operation. So in the final show, I canceled this technology.
+
 #### During this process, we found that in terms of technology and venue arrangement, we did not have enough time and means to use the ideal large screen. So we finally focused on creating a virtual display space through unreal. This in turn increases audience engagement.
 
 #### (3) Production process
