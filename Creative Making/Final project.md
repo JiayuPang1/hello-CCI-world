@@ -3,6 +3,14 @@
 
 # **·Samsara·**
 ---------------------------
+#### I am responsible for: 
+#### (1) The concept proposal of the work
+#### (2) The design of the presentation form
+#### (3) The modeling of the game scene and all internal objects, the paste material
+#### (4) The technical research of the interactive scene
+#### (5) The design of the final show display scene
+----------------------------------
+
 ## 1.Project introduction:
 #### With the increasing impact of technology on human society and the world, the relationship between human, technology and nature has become a hot topic today.
 #### The work attempts to process images and sound through art and machine learning. And display it in a virtual game space.
