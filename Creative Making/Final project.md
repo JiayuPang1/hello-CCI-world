@@ -1,8 +1,9 @@
 ## **· Final Project ·**
+---------------------------
 
 # **·Samsara·**
-
-## Project introduction:
+---------------------------
+## 1.Project introduction:
 #### With the increasing impact of technology on human society and the world, the relationship between human, technology and nature has become a hot topic today.
 #### The work attempts to process images and sound through art and machine learning. And display it in a virtual game space.
 #### The ending of the game is open, there is no end, and the audience can explore freely in the game space. While giving the audience a multi-sensory immersive experience, it also makes people reflect on the possibility of how to escape from reincarnation.
@@ -17,18 +18,30 @@
 #### The third space symbolizes the beginning of life and symbolizes hope.  As if everything could be done all over again.  In fact, we have indeed set a trigger point in the space to return to the beginning, which requires the audience to explore on their own.
 <img width="1680" alt="space03-02" src="https://user-images.githubusercontent.com/92034503/173472667-8c7fea63-4b9f-48b0-9e86-a2a4d11aa011.png">
 
+## 2. Research process
+#### (1) Source of inspiration:
+#### With the increasing impact of technology on human society and the world. There are also more and more discussions on the relationship between people, technology, and nature. This is also the starting point for my idea of the work. I have a "pessimistic" attitude towards the impact of machines on society. With the development of technology, the boundaries between machines and humans are becoming more and more blurred. Just like the three spaces I created in the game. I think not only as it is said in religion, everything goes through reincarnation, the circular concept of all life and physical existence. The influence of technology on them is also cyclical. They both accelerate the creation and demise of life. Not only is it beneficial to human life, but it also poses a serious threat to human society. So I wanted to make an immersive game that enhances audience engagement. Let people reflect on the problems caused by the rapid development of technology when they explore in the game. and be able to reflect.
 
-#### Some pictures of the Show
+#### (2) Experimental process:
+#### The way we initially thought about the presentation of the work was based on motion capture and machine-generated dynamic images on a large screen. Corresponding code research was also done.
+Insert picture 1111
+#### During this process, we found that in terms of technology and venue arrangement, we did not have enough time and means to use the ideal large screen. So we finally focused on creating a virtual display space through unreal. This in turn increases audience engagement.
 
-![IMG_0894](https://user-images.githubusercontent.com/92034503/173474429-9e5c90f5-8c35-4682-a799-3921c6223393.JPG)
-![IMG_0847](https://user-images.githubusercontent.com/92034503/173474475-3b67c6b4-6bfc-4d03-9937-d3be734678cf.jpeg)
-![IMG_0835](https://user-images.githubusercontent.com/92034503/173475011-6d3c150c-b66e-495a-86fd-d8fa140f48f2.jpeg)
+#### (3) Production process
+Picture + Video 11111
+#### Creating with blueprints in Unreal adds a lot of interactive effects, which improves the flexibility of the picture and enhances the immersive experience of the audience.
 
-![IMG_0903](https://user-images.githubusercontent.com/92034503/173473314-f9d1c207-59ae-4842-aeed-6c2eefa9ca67.jpg)
+#### In the final show, we made some simple physical scene settings, and the cubes of various rules echoed the scenes in the game to enhance the audience's experience.
+
+#### (4) Final display
+####     Work video:
+
+####     Exhibition site:
 
 
-#### -> The video link
-https://youtu.be/FdQfJHunBuA
+## 3. Feedback:
+#### （1） During the production process, my unreal program crashed frequently due to computer configuration problems. This resulted in me having to also consider whether the model size would allow the program to run successfully during the design process.
+#### （2） I asked the audience who participated in the game on the spot, and many people praised the beautiful game space I created. They also made valuable suggestions. Hopefully, in the future, I can combine it with VR technology to further enhance the immersive experience of the audience.
 
 ————————————————————————————————————————
 
