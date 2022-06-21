@@ -1,7 +1,8 @@
 ## **· Final Project ·**
 ---------------------------
 #### Link：the Readme file of github.
-#### （It is recommended that people click on this link to the source file to view the video inserted in it.）
+https://github.com/JiayuPang1/hello-CCI-world/blob/main/Creative%20Making/Final%20project.md
+#### ·It is recommended that people click on this link to the source file to view the video inserted in it.
 
 # **·Samsara·**
 ---------------------------
@@ -46,7 +47,17 @@ https://user-images.githubusercontent.com/92034503/174837021-526dda75-edb0-4ae7-
 #### During this process, we found that in terms of technology and venue arrangement, we did not have enough time and means to use the ideal large screen. So we finally focused on creating a virtual display space through unreal. This in turn increases audience engagement.
 
 #### (3) Production process
-Picture + Video 11111
+![Uploading 截屏2022-06-21 下午5.47.07.png…]()
+![Uploading 截屏2022-06-21 下午5.47.43.png…]()
+<img width="1290" alt="截屏2022-06-21 下午5 48 10" src="https://user-images.githubusercontent.com/92034503/174854922-0c11904f-c0a2-407a-b78f-4d0e5b02f949.png">
+<img width="1323" alt="截屏2022-06-21 下午5 48 33" src="https://user-images.githubusercontent.com/92034503/174854898-abe4a4a1-82ad-4ce0-9404-e30c879ff17f.png">
+<img width="1427" alt="截屏2022-06-21 下午5 49 20" src="https://user-images.githubusercontent.com/92034503/174854966-be64307c-a886-4e94-9aed-fe1dfe6d20d7.png">
+<img width="1471" alt="截屏2022-06-21 下午5 49 52" src="https://user-images.githubusercontent.com/92034503/174854988-aa9edfdd-28b7-4576-8a51-c2905982d01e.png">
+<img width="1468" alt="截屏2022-06-21 下午5 50 01" src="https://user-images.githubusercontent.com/92034503/174855003-dc140262-e95b-49f8-9701-9c5d6b6ea3e5.png">
+
+![IMG_0805](https://user-images.githubusercontent.com/92034503/174854017-df01333a-bf23-498d-9639-974ef66c9a89.JPG)
+![IMG_0894](https://user-images.githubusercontent.com/92034503/174854018-3a68cccd-4fe6-4417-b7e1-22c51f0fe355.JPG)
+
 #### Creating with blueprints in Unreal adds a lot of interactive effects, which improves the flexibility of the picture and enhances the immersive experience of the audience.
 #### This process took the most time, because it was the first time I was exposed to unreal, all the dynamic effects, such as multiple characters moving randomly, glowing and freely flashing fireflies, objects that could be touched, teleportation and respawn, etc.
 
@@ -54,8 +65,14 @@ Picture + Video 11111
 
 #### (4) Final display
 ####     Work video:
+https://youtu.be/AAdPYkBbNqc
 
 ####     Exhibition site:
+![IMG_0891](https://user-images.githubusercontent.com/92034503/174855585-e9ec2b55-a5ab-41ec-8ce3-6669dc1acb00.JPG)
+![IMG_0903 2](https://user-images.githubusercontent.com/92034503/174855611-a8e458f5-481b-40e9-bfaf-3149cf9bcef3.jpg)
+
+![IMG_7591](https://user-images.githubusercontent.com/92034503/174855651-42be9313-cc2e-4e62-8a99-209338a018fe.jpg)
+![IMG_7603](https://user-images.githubusercontent.com/92034503/174855687-b08a4a1a-ce03-4f00-8890-525e1cf06195.jpg)
 
 
 ## 3. Feedback:
@@ -65,5 +82,7 @@ Picture + Video 11111
 ————————————————————————————————————————
 
 #### ps: The 4 videos inserted in the game scene were produced by team member Qixuan Xu.
+
+
 
 
