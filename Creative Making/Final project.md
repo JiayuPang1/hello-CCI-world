@@ -20,14 +20,14 @@ https://github.com/JiayuPang1/hello-CCI-world/blob/main/Creative%20Making/Final%
 #### The work attempts to process images and sound through art and machine learning. And display it in a virtual game space.
 #### The ending of the game is open, there is no end, and the audience can explore freely in the game space. While giving the audience a multi-sensory immersive experience, it also makes people reflect on the possibility of how to escape from reincarnation.
 
-#### The first space is return to nothing, more like a spiritual world.  
+#### · The first space is return to nothing, more like a spiritual world.  
 <img width="1680" alt="space01" src="https://user-images.githubusercontent.com/92034503/173472566-aa1abe7a-6ec1-49c5-819c-a2b97340a4f7.png">
 
-#### The second space shows the blurring of the boundaries between man and machine as technology develops.  There is pressure from the building throughout the space.  
+#### · The second space shows the blurring of the boundaries between man and machine as technology develops.  There is pressure from the building throughout the space.  
 
 <img width="1680" alt="space02" src="https://user-images.githubusercontent.com/92034503/173472608-be13866b-e660-4bdc-aba6-c6db9ae3cc27.png">
 
-#### The third space symbolizes the beginning of life and symbolizes hope.  As if everything could be done all over again.  In fact, we have indeed set a trigger point in the space to return to the beginning, which requires the audience to explore on their own.
+#### · The third space symbolizes the beginning of life and symbolizes hope.  As if everything could be done all over again.  In fact, we have indeed set a trigger point in the space to return to the beginning, which requires the audience to explore on their own.
 <img width="1680" alt="space03-02" src="https://user-images.githubusercontent.com/92034503/173472667-8c7fea63-4b9f-48b0-9e86-a2a4d11aa011.png">
 
 ## 2. Research process
