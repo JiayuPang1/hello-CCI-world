@@ -4,6 +4,7 @@
 https://github.com/JiayuPang1/hello-CCI-world/blob/main/Creative%20Making/Final%20project.md
 #### ·It is recommended that people click on this link to the source file to view the video inserted in it.
 
+
 # **·Samsara·**
 ---------------------------
 #### I am responsible for: 
@@ -66,6 +67,8 @@ https://user-images.githubusercontent.com/92034503/174837021-526dda75-edb0-4ae7-
 #### (4) Final display
 ####     Work video:
 https://youtu.be/AAdPYkBbNqc
+#### （5）Link of my original work:
+https://drive.google.com/drive/folders/1-wLU5a8-7EcvcgefaVMxmJdUVUXuWjJV?usp=sharing
 
 ####     Exhibition site:
 ![IMG_0891](https://user-images.githubusercontent.com/92034503/174855585-e9ec2b55-a5ab-41ec-8ce3-6669dc1acb00.JPG)
