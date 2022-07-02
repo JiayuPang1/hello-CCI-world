@@ -78,6 +78,11 @@ https://drive.google.com/drive/folders/1-wLU5a8-7EcvcgefaVMxmJdUVUXuWjJV?usp=sha
 ![IMG_7603](https://user-images.githubusercontent.com/92034503/174855687-b08a4a1a-ce03-4f00-8890-525e1cf06195.jpg)
 
 
+https://user-images.githubusercontent.com/92034503/177011904-531ed1b0-2679-4d78-b815-ceea307cf680.MP4
+
+
+
+
 ## 3. Feedback:
 #### （1） During the production process, my unreal program crashed frequently due to computer configuration problems. This resulted in me having to also consider whether the model size would allow the program to run successfully during the design process.
 #### （2） I asked the audience who participated in the game on the spot, and many people praised the beautiful game space I created. They also made valuable suggestions. Hopefully, in the future, I can combine it with VR technology to further enhance the immersive experience of the audience.
