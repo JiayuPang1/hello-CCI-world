@@ -13,6 +13,7 @@ https://github.com/JiayuPang1/hello-CCI-world/blob/main/Creative%20Making/Final%
 #### (3) The modeling of the game scene and all internal objects, the paste material
 #### (4) The technical research of the interactive scene
 #### (5) The design of the final show display scene
+
 ----------------------------------
 
 ## 1.Project introduction:
@@ -29,7 +30,9 @@ https://github.com/JiayuPang1/hello-CCI-world/blob/main/Creative%20Making/Final%
 
 #### · The third space symbolizes the beginning of life and symbolizes hope.  As if everything could be done all over again.  In fact, we have indeed set a trigger point in the space to return to the beginning, which requires the audience to explore on their own.
 <img width="1680" alt="space03-02" src="https://user-images.githubusercontent.com/92034503/173472667-8c7fea63-4b9f-48b0-9e86-a2a4d11aa011.png">
+
 -------------------
+
 ## 2. Research process
 #### (1) Source of inspiration:
 #### With the increasing impact of technology on human society and the world. There are also more and more discussions on the relationship between people, technology, and nature. This is also the starting point for my idea of the work. I have a "pessimistic" attitude towards the impact of machines on society. With the development of technology, the boundaries between machines and humans are becoming more and more blurred. Just like the three spaces I created in the game. I think not only as it is said in religion, everything goes through reincarnation, the circular concept of all life and physical existence. The influence of technology on them is also cyclical. They both accelerate the creation and demise of life. Not only is it beneficial to human life, but it also poses a serious threat to human society. So I wanted to make an immersive game that enhances audience engagement. Let people reflect on the problems caused by the rapid development of technology when they explore in the game. and be able to reflect.
@@ -64,15 +67,13 @@ https://user-images.githubusercontent.com/92034503/174837021-526dda75-edb0-4ae7-
 #### (4) Final display
 ####     Work video:
 https://youtu.be/AAdPYkBbNqc
-#### （5）Link of my original work:
+#### (5) Link of my original work:
 https://drive.google.com/drive/folders/1-wLU5a8-7EcvcgefaVMxmJdUVUXuWjJV?usp=sharing
 
 ####     Exhibition site:
 ![IMG_0891](https://user-images.githubusercontent.com/92034503/174855585-e9ec2b55-a5ab-41ec-8ce3-6669dc1acb00.JPG)
 ![IMG_0903 2](https://user-images.githubusercontent.com/92034503/174855611-a8e458f5-481b-40e9-bfaf-3149cf9bcef3.jpg)
 
-![IMG_7591](https://user-images.githubusercontent.com/92034503/174855651-42be9313-cc2e-4e62-8a99-209338a018fe.jpg)
-![IMG_7603](https://user-images.githubusercontent.com/92034503/174855687-b08a4a1a-ce03-4f00-8890-525e1cf06195.jpg)
 
 
 https://user-images.githubusercontent.com/92034503/177011904-531ed1b0-2679-4d78-b815-ceea307cf680.MP4
