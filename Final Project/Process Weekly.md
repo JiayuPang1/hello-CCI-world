@@ -46,8 +46,7 @@ void loop() {
     base.write(45); 
   } 
 }
-
-————————————————
+____________
 ## · Progress Weekly
 
 ### WEEK 01 Link：
