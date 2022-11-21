@@ -1,8 +1,9 @@
 # Original project file
 
-## Link：
+## Original Project File Link：
 https://drive.google.com/drive/folders/18hnODSRry0hi66BkX_oMU7GAF2dtKhYo?usp=share_link
 
+## The code of the Arduino：
 
 #include <Servo.h> 
 
