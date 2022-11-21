@@ -9,6 +9,7 @@ ____________
 ## Progress Weekly
 
 ### WEEK 01 Link：
+https://github.com/JiayuPang1/hello-CCI-world/blob/main/Final%20Project/Week%2001%20Process.md
 
 ### WEEK 02 Link：
 
