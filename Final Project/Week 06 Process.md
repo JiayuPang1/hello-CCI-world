@@ -5,16 +5,6 @@
 ### · Project original document display
 
 
-![IMG_9290](https://user-images.githubusercontent.com/92034503/203691620-2a8bd7a0-36a2-4af9-bab1-4ad2182acebf.jpg)
-
-![IMG_9291](https://user-images.githubusercontent.com/92034503/203691632-64d14a9c-181f-47f8-9661-7195be08bf26.jpg)
-
-![IMG_9292](https://user-images.githubusercontent.com/92034503/203691641-fd08dacb-568d-44da-962d-0fe6d5250df8.jpg)
-
-![IMG_9293](https://user-images.githubusercontent.com/92034503/203691648-f1654ef1-6f89-4ca0-8241-4f7aab29c586.jpg)
-
-![IMG_9294](https://user-images.githubusercontent.com/92034503/203691662-ef475d2d-5098-431f-8e51-43db469086a1.jpg)
-
 ![MTVideo 7](https://user-images.githubusercontent.com/92034503/203693199-e2eab07e-8ea9-4d64-b4cb-704c8c1f3267.gif)
 
 ![MTVideo 6](https://user-images.githubusercontent.com/92034503/203693275-f151c97e-92c7-497a-89d9-8e3cc5647102.gif)
@@ -24,5 +14,17 @@ https://user-images.githubusercontent.com/92034503/203693295-0e0d8c66-7f1c-424b-
 
 
 https://user-images.githubusercontent.com/92034503/203693308-f53870fb-b8e9-494c-b7ad-d5933584ad97.MOV
+
+
+
+![IMG_9290](https://user-images.githubusercontent.com/92034503/203691620-2a8bd7a0-36a2-4af9-bab1-4ad2182acebf.jpg)
+
+![IMG_9291](https://user-images.githubusercontent.com/92034503/203691632-64d14a9c-181f-47f8-9661-7195be08bf26.jpg)
+
+![IMG_9292](https://user-images.githubusercontent.com/92034503/203691641-fd08dacb-568d-44da-962d-0fe6d5250df8.jpg)
+
+![IMG_9293](https://user-images.githubusercontent.com/92034503/203691648-f1654ef1-6f89-4ca0-8241-4f7aab29c586.jpg)
+
+![IMG_9294](https://user-images.githubusercontent.com/92034503/203691662-ef475d2d-5098-431f-8e51-43db469086a1.jpg)
 
 
