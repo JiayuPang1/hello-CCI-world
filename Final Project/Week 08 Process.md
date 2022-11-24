@@ -20,11 +20,12 @@ https://youtu.be/kuVG5XKM5Uk
 
 ![9081669009221_ pic_hd](https://user-images.githubusercontent.com/92034503/203695666-eae90f99-50c7-476e-9f07-24148fb07269.jpg)
 
+![WechatIMG908](https://user-images.githubusercontent.com/92034503/203695793-15b41ecd-920c-4a15-96b4-a8c10ff8d361.jpeg)
+
 
 ### · Interview
 
 ![IMG_8551](https://user-images.githubusercontent.com/92034503/203694600-e23455a9-6f6a-451d-a23f-62514645b0ae.jpg)
 
 
-![Uploading 9081669009221_.pic_hd.jpg…]()
 
