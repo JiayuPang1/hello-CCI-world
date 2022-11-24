@@ -3,7 +3,7 @@
 ————————————————————————————————
 
 ### Introduction ：
-#### At the end of June, I communicated with the tutor and proposed the first version of the concept. By the first week of September the final work concept was finalized.
+#### At the end of June, I communicated with the tutor and proposed the first version of the concept. By the first week of September, the concept of the final work has been roughly determined.
 
 
 ![幻灯片1](https://user-images.githubusercontent.com/92034503/203676654-43fc87c8-17af-4dba-9c7e-d5c27b672a85.jpeg)
