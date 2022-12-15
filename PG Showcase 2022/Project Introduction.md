@@ -2,7 +2,7 @@
 -----
 # Machine Manifesto
 ## Jiayu Pang
-## Course MSc Creative Computing
+## Course： MSc Creative Computing
 
 ![截屏2022-11-20 上午2 36 47](https://user-images.githubusercontent.com/92034503/207918595-49425ac9-0f81-4855-9be7-9bd8a3650425.png)
 
